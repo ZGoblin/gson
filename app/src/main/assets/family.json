@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Oleg",
+    "age": 20,
+    "isAdult": true,
+    "numberOfRelatives": 9,
+    "mother": {
+      "name": "Lilia",
+      "age": 40,
+      "isAdult": true,
+      "numberOfRelatives": 10
+    },
+    "father": {
+      "name": "Sergeii",
+      "age": 43,
+      "isAdult": true,
+      "numberOfRelatives": 11
+    }
+  },
+  {
+    "name": "Konstantin",
+    "age": 14,
+    "isAdult": false,
+    "numberOfRelatives": 4,
+    "mother": {
+      "name": "Yulia",
+      "age": 40,
+      "isAdult": true,
+      "numberOfRelatives": 10
+    },
+    "father": {
+      "name": "Andreii",
+      "age": 43,
+      "isAdult": true,
+      "numberOfRelatives": 11
+    }
+  }
+]
